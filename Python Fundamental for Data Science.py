@@ -25,3 +25,11 @@ d=3
 
 modulus=c%d
 print("Hasil modulus",modulus)
+
+# Tugas Mid Praktek
+angka=5
+
+if(angka%2==0):
+    print("angka termasuk bilangan genap")
+else:
+    print("angka termasuk bilangan ganjil")
